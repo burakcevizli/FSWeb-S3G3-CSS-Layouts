@@ -48,6 +48,8 @@ h1 {
   text-align: center;
 }
 .tanitmadivi p {
+  color: sandybrown;
+  font-weight: bold;
   padding-left: 40%;
   padding-right: 40%;
 }
@@ -65,10 +67,14 @@ h1 {
   color: red;
   font-weight: bold;
 }
+ #foti{
+    width: 100%;
 
+    object-fit: cover;
+ }
 .footer {
   display: flex;
-
+  background-color: rgb(110, 89, 49, 0.3);
   justify-content: space-around;
   margin-top: 3rem;
   text-align: center;
@@ -84,32 +90,31 @@ h1 {
   background-color: rgb(151, 33, 135, 0.7);
 }
 #linkedin {
-  height: 85px;
+  height: 100%;
   width: 158px;
 }
 #Instagram {
-  height: 80px;
+  height: 100%;
   width: 100px;
 }
 
 /* Hakkımda Kısmı */
 
-.hakkımda{
-    border: 2px solid black;
-    text-align: center;
-    padding-right: 20rem;
-    padding-left: 20rem;
-    margin-top: 20rem;
-    border-radius: 50%;
+.hakkımda {
+  border: 2px solid black;
+  text-align: center;
+  padding-right: 20rem;
+  padding-left: 20rem;
+  margin-top: 20rem;
+  border-radius: 50%;
 }
 
 /* İletişim Kısmı */
-.iletişim h1{
-    text-align: center;
+.iletişim h1 {
+  text-align: center;
 }
 
-
 /* Projeler Kısmı */
-.projeler{
-    text-align: center;
+.projeler {
+  text-align: center;
 }
