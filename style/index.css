@@ -4,11 +4,12 @@ body {
   padding: 0;
 }
 .icons {
+  margin-right: 1rem;
   margin-left: 1rem;
   margin-top: 1rem;
 }
-h2{
-    margin-right: 70px;
+h2 {
+  margin-right: 70px;
 }
 .icons img {
   width: 2rem;
@@ -36,7 +37,7 @@ h2{
   text-decoration: none;
   border-radius: 15%;
   color: white;
-  background-color: rgb(3, 18, 235,0.5);
+  background-color: rgb(3, 18, 235, 0.5);
   padding: 2rem;
 }
 h1 {
@@ -80,7 +81,7 @@ h1 {
   text-decoration: none;
   border-radius: 15%;
   color: white;
-  background-color: rgb(151, 33, 135,0.7);
+  background-color: rgb(151, 33, 135, 0.7);
 }
 #linkedin {
   height: 85px;
@@ -89,4 +90,26 @@ h1 {
 #Instagram {
   height: 80px;
   width: 100px;
+}
+
+/* Hakkımda Kısmı */
+
+.hakkımda{
+    border: 2px solid black;
+    text-align: center;
+    padding-right: 20rem;
+    padding-left: 20rem;
+    margin-top: 20rem;
+    border-radius: 50%;
+}
+
+/* İletişim Kısmı */
+.iletişim h1{
+    text-align: center;
+}
+
+
+/* Projeler Kısmı */
+.projeler{
+    text-align: center;
 }
