@@ -1,0 +1,12 @@
+@media (max-width: 830px) {
+  .navbar nav {
+    align-items: center;
+  }
+  .navbar nav a {
+    width: 45vh;
+    border-radius: 1%;
+  }
+  .navbar nav {
+    flex-direction: column;
+  }
+}

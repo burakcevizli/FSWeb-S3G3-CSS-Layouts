@@ -1,0 +1,10 @@
+@media only screen and (min-width: 950px) and (max-width: 1149px) {
+  .ortaalt img {
+    width: 20%;
+  }
+  .paragraflar {
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+  }
+}

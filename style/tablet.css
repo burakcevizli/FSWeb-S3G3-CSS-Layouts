@@ -1,0 +1,17 @@
+@media (max-width: 800px) {
+  .navbar nav {
+    flex-direction: column;
+  }
+  .ortaalt {
+    align-items: center;
+    flex-direction: column;
+  }
+  .ortaalt img {
+    width: 80%;
+  }
+  .paragraflar {
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+  }
+}
